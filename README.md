@@ -1,5 +1,5 @@
 # Domain Randomization
-Code associated with our paper "Robust Domain Randomization for Reinforcement Learning"
+Code associated with our paper "Robust Visual Domain Randomization for Reinforcement Learning"
 
 # Requirements
 
